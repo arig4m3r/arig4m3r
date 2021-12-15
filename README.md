@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![AriG4M3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=arig4m3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arizinhorocha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
