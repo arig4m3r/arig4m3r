@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Estou trabalhando atualmente no meu servidor de Minecraft, MixMC
 - 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, Javalin
-- 😄 Pronome: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arizinhorocha&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
