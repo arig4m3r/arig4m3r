@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **arig4m3r/arig4m3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
