@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=arig4m3r&color=blue)
+
 - 🔭 Estou trabalhando atualmente no meu servidor de Minecraft, MixMC
 - 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, Javalin
 - 😄 Pronomes: Ele/Dele
