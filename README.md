@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, Javalin
 - 😄 Pronomes: Ele/Dele
 
-# Estatisticas de trabalho no dia passado
+#### Estatisticas de trabalho no dia passado
 <!--START_SECTION:waka-->
 
 ```text
