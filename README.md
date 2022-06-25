@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ele/Dele
 
 <!--START_SECTION:waka-->
+
+```text
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 Estatisticas             |  Spotify
