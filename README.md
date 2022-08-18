@@ -37,6 +37,6 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 Estatisticas             |  Spotify
 :-------------------------:|:-------------------------:
-[![AriG4M3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=arig4m3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arizinhorocha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![AriG4M3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)  |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arizinhorocha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![gif da cobrina](https://github.com/arig4m3r/arig4m3r/blob/output/github-contribution-grid-snake.svg)
