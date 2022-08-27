@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 21 mins   █████████████░░░░░░░░░░░░   52.52 %
-Dart         1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-JavaScript   37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-XML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   4 hrs 16 mins   █████████████████████▒░░░   85.85 %
+JavaScript   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
