@@ -25,12 +25,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       2 hrs 52 mins   █████████████▓░░░░░░░░░░░   54.00 %
-PHP              1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
-JavaScript       42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Text             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Bash             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+TypeScript       4 hrs 17 mins   ███████████████▓░░░░░░░░░   62.80 %
+PHP              1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+JavaScript       42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
