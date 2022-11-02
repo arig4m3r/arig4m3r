@@ -25,11 +25,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java         4 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.49 %
-Bash         1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-YAML         1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-TypeScript   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Other        58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+TypeScript   5 hrs 45 mins   █████████████░░░░░░░░░░░░   52.07 %
+Other        2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
 ```
 
 <!--END_SECTION:waka-->
