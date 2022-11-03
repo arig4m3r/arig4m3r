@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 45 mins   █████████████░░░░░░░░░░░░   52.07 %
-Other        2 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+TypeScript   9 hrs 31 mins   ███████████████████░░░░░░   76.12 %
+Other        2 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
 ```
 
 <!--END_SECTION:waka-->
