@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 16 mins   █████████████░░░░░░░░░░░░   51.93 %
-Rust         1 hr 42 mins    █████████▓░░░░░░░░░░░░░░░   38.91 %
-HTML         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-TOML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   2 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.97 %
+Rust         1 hr 42 mins    █████████▓░░░░░░░░░░░░░░░   38.26 %
+Python       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+HTML         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+TOML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
