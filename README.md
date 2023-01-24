@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 Estou atualmente em procura de um emprego
 - 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, MongoDB
-- 😄 Pronomes: Ele/Dele
 
 #### Estatisticas de trabalho no dia passado
 <!--START_SECTION:waka-->
