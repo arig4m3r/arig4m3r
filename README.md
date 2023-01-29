@@ -24,12 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 mins         ████████████▓░░░░░░░░░░░░   50.38 %
-Properties   5 mins          ███████░░░░░░░░░░░░░░░░░░   27.55 %
-Docker       4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Properties   5 mins          ██████████████░░░░░░░░░░░   55.76 %
+Docker       4 mins          ███████████░░░░░░░░░░░░░░   43.87 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
