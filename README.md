@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Properties   5 mins          ██████████████░░░░░░░░░░░   55.76 %
-Docker       4 mins          ███████████░░░░░░░░░░░░░░   43.87 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   50 mins         ██████████████████████░░░   88.60 %
+TypeScript   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
