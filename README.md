@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### Estatisticas de trabalho no dia passado
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   1 hr 53 mins    █████████████████▓░░░░░░░   70.05 %
 Bash         29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
 JSON         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
