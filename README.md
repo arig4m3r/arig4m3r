@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   28 mins         ██████████░░░░░░░░░░░░░░░   40.65 %
-Dart         23 mins         ████████▒░░░░░░░░░░░░░░░░   33.12 %
-Docker       14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Properties   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   1 hr 52 mins    █████████████████████▒░░░   85.88 %
+Docker       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
