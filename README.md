@@ -1,4 +1,8 @@
+
+
+
 ### Hello World! 👋
+![View count](https://komarev.com/ghpvc/?username=arig4m3r&color=blue)
 
 <!--
 **arig4m3r/arig4m3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,22 +24,11 @@ Here are some ideas to get you started:
 - 🔭 Estou atualmente em procura de um emprego
 - 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, MongoDB
 
-#### Estatisticas de trabalho no dia passado
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   4 hrs 11 mins   █████████████████████▒░░░   84.95 %
-Other        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:waka-->
-
-Estatisticas             |  Spotify
+### Estatisticas
+Github |  Wakatime
 :-------------------------:|:-------------------------:
-[![AriG4M3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)  |  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arizinhorocha&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![AriG4M3R's GitHub stats](https://github-readme-stats.vercel.app/api?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)  |  [![AriG4M3R's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
 
-![gif da cobrina](https://github.com/arig4m3r/arig4m3r/blob/output/github-contribution-grid-snake.svg)
-![View count](https://komarev.com/ghpvc/?username=arig4m3r&color=blue)
+Cobrinha dos commits
+:-------------------------:
+![gif da cobrinha](https://github.com/arig4m3r/arig4m3r/blob/output/github-contribution-grid-snake.svg)
