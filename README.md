@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=750&color=01C8F7&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Prazer%2C+meu+nome+%C3%A9+Ari;No+momento+tenho+trabalhado+com+NextJS+e+React;Caso+queira+entrar+em+contato%2C+me+adicione+no+Discord%3A;%40arig4m3r)](https://git.io/typing-svg)
 
-- 🔭 Estou atualmente em procura de um emprego
-- 🌱 Eu estou atualmente aprendendo TypeScript, NextJS, MongoDB
+- 🌱 Eu estou atualmente trabalhando com TypeScript, NextJS
 
 ### Estatisticas
 Github |  Wakatime
