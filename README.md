@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Estatisticas
 Github |  Wakatime
 :-------------------------:|:-------------------------:
-[![AriG4M3R's GitHub stats](https://github-readme-stats-mu-coral-77.vercel.app/api?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)  |  [![AriG4M3R's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
+[![AriG4M3R's GitHub stats](https://github-readme-stats-mu-coral-77.vercel.app/api?username=arig4m3r&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)  |  [![AriG4M3R's wakatime stats](https://github-readme-stats-mu-coral-77.vercel.app/api/wakatime?username=arig4m3r&api_domain=wakapi.dev&theme=radical&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/anuraghazra/github-readme-stats)
 
 Cobrinha dos commits
 :-------------------------:
